@@ -6,5 +6,5 @@
 利用QGraphicsView框架绘制的图形
 
 效果图如下：
-![image](https://github.com/oLHHo/QTpcvGraph/edit/master/QTpcvGraph/效果图片.jpg)
+![image](https://github.com/oLHHo/QTpcvGraph/edit/master/QTpcvGraph/rendering.jpg)
 
